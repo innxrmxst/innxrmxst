@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @innxrmxst
 - 👀 I’m interested in Penetration Testing
-- 🌱 I’m currently learning Active Directory
-- 💞️ I’m looking to collaborate on PNPT exam preparation
+- 🌱 I’m currently learning Pivioting
+- 💞️ I’m looking to collaborate on eCPPTv2 exam preparation
 - 📫 Reach me on Discord innxrmxst#8074
 
 <!---
