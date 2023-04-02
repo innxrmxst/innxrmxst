@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @innxrmxst
 - 👀 I’m interested in Penetration Testing
-- 🌱 I’m currently learning Active Directory Security
-- 💞️ I’m looking to collaborate on CRTP exam preparation
+- 🌱 I’m currently learning Web Application Penetration Testing
+- 💞️ I’m looking to collaborate on BSCP exam preparation
 - 📫 Reach me on Discord innxrmxst#8074
 
 <!---
