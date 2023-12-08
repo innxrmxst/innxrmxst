@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on OSCP exam preparation
 - 📫 Reach me on Discord innxrmxst#8074
 
-
-<a href="https://github.com/zadam/trilium/wiki/Screenshot-tour"><img src="https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png" alt="Trilium Screenshot" width="1000"></a>
-
 Ukraine is currently defending itself from Russian aggression, please consider [donating to Ukrainian Army or humanitarian charities](https://standforukraine.com/).
 
 <p float="left">
