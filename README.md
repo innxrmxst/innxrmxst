@@ -8,10 +8,7 @@
 
 Ukraine is currently defending itself from Russian aggression, please consider [donating to Ukrainian Army or humanitarian charities](https://standforukraine.com/).
 
-
-<p float="left">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg](https://pbs.twimg.com/media/FSNxrjLWQAAAlsY.png)" alt="drawing" width="400"/>
-</p>
+![alt text](https://pbs.twimg.com/media/FSNxrjLWQAAAlsY.png)
 
 
 <!---
