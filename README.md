@@ -10,7 +10,7 @@ Ukraine is currently defending itself from Russian aggression, please consider [
 
 
 <p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="drawing" width="400"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg](https://pbs.twimg.com/media/FSNxrjLWQAAAlsY.png)" alt="drawing" width="400"/>
 </p>
 
 
