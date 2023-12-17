@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on OSCP exam preparation
 - 📫 Reach me on Discord innxrmxst#8074
 
+![](https://komarev.com/ghpvc/?username=innxrmxst&label=PROFILE+VIEWS&color=red)
+
 ---
 
 Ukraine is currently defending itself from Russian aggression, please consider [donating to Ukrainian Army or humanitarian charities](https://standforukraine.com/).
