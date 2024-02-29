@@ -5,7 +5,6 @@
 - 📫 Reach me on Discord innxrmxst#8074
 
 
-![](https://raw.githubusercontent.com/innxrmxst/innxrmxst/main/x.gif)
 
 
 ![](https://komarev.com/ghpvc/?username=innxrmxst&label=PROFILE+VIEWS&color=red)
