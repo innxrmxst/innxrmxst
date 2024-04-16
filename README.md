@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @innxrmxst
-- 👀 I’m interested in Penetration Testing
-- 🌱 I’m currently studying PEN-200 course.
-- 💞️ I’m looking to collaborate on OSCP exam prep
+- 👀 I’m interested in Red Teaming
 - 📫 Reach me on Discord innxrmxst#8074
 
 
