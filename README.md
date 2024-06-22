@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @innxrmxst
-- 👀 I’m interested in Red Teaming
+- 👀 I’m interested in Purple Teaming
 - 📫 Reach me on Discord innxrmxst#8074
 
 
