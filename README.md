@@ -12,6 +12,8 @@
           innxrmxst                                                                                      
 ```
 
+---
+
 **:chart_with_upwards_trend: Stats**
 
 <a href="https://github.com/innxrmxst#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=innxrmxst&show_icons=true&hide_rank=true&theme=swift#gh-light-mode-only" width="274px" alt="GitHub-Stats-Light" /></a>
